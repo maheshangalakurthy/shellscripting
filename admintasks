@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo
+echo will run admin commands
+echo
+top | head 10
+echo
+df -h
+echo
+uptime
+echo
+free -m
+echo
+echo end of script
